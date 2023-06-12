@@ -150,7 +150,7 @@ Database schema definitions.
 7. `/memes/destroy/:id` - Delete a Meme .
 
 ## DEMO
-The following are demo images/screenshots of how the site looks like
+The following are demo images/screenshots of how the site looks like step by step and page by page:
 
 <h1>This is the landing page where you can either click on the link to register an account or login if you have an account</h1>
 <img src="./my-app-frontend/demo1.png" alt="demo1">
