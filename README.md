@@ -149,7 +149,7 @@ Database schema definitions.
 6. `/memes/update/:id` - Update an existing meme.
 7. `/memes/destroy/:id` - Delete a Meme .
 
-## LICENSE
+## DEMO
 The following are demo images/screenshots of how the site looks like
 
 <h1>This is the landing page where you can either click on the link to register an account or login if you have an account</h1>
