@@ -107,13 +107,13 @@ Database schema definitions.
   "password": "12345"
 }  ```
 
-3. `/auth/login` - Log in a user using email and password.
+3. `/auth/login` - Log in as a user using email and password.
 
    ```{json}
    ## REQUEST BODY
    {
      "email": "Bwaweru@gmail.com",
-  "password": "12345"
+     "password": "12345"
 }  ```
 
 4. `/memes/create` - Add a new meme.
